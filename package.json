@@ -1,0 +1,18 @@
+{
+  "name": "ara",
+  "version": "0.0.0",
+  "description": "",
+  "main": "./app.js",
+  "dependencies": {
+    "adbkit": "^2.0.15",
+    "co": "^4.6.0",
+    "co-foreach": "^1.1.1",
+    "co-sleep": "0.0.1",
+    "yargs": "^3.30.0"
+  },
+  "author": "Ineentho",
+  "license": "ISC",
+  "bin": {
+    "android-run-all": "./app.js"
+  }
+}
