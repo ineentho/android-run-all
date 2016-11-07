@@ -8,7 +8,7 @@
     "co": "^4.6.0",
     "co-foreach": "^1.1.1",
     "co-sleep": "0.0.1",
-    "yargs": "^3.30.0"
+    "yargs": "^6.3.0"
   },
   "author": "Ineentho",
   "license": "ISC",
